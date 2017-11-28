@@ -1,0 +1,902 @@
+[
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "capitol av n"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "capitol av n"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "capitol av s"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "capitol av s"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "n 1st st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "n 1st st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "s 1st street"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "s 1st street"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e santa clara st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e santa clara st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "w santa clara st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "w santa clara st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e san fernando st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e san fernando st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "w san fernando st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "w san fernando st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e trimble rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e trimble rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "w trimble rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "w trimble rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e tasman dr"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e tasman dr"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "w tasman dr"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "w tasman dr"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "n zanker rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "n zanker rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "s zanker rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "s zanker rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "North", 
+        "Speed": "40", 
+        "Street Name": "stevens creek blvd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "South", 
+        "Speed": "40", 
+        "Street Name": "stevens creek blvd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "berryessa rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "berryessa rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e brokaw rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e brokaw rd"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "East", 
+        "Speed": "40", 
+        "Street Name": "e san salvador st"
+    }, 
+    {
+        "Capacity": "950", 
+        "Directions": "West", 
+        "Speed": "40", 
+        "Street Name": "e san salvador st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "n 2nd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "n 2nd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "s 2nd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "s 2nd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "n 3rd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "n 3rd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "s 3rd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "s 3rd st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "n 7th st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "n 7th st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "North", 
+        "Speed": "30", 
+        "Street Name": "s 7th st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "South", 
+        "Speed": "30", 
+        "Street Name": "s 7th st"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "East", 
+        "Speed": "30", 
+        "Street Name": "charcot av"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "West", 
+        "Speed": "30", 
+        "Street Name": "charcot av"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "East", 
+        "Speed": "30", 
+        "Street Name": "airport blvd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "West", 
+        "Speed": "30", 
+        "Street Name": "airport blvd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "East", 
+        "Speed": "30", 
+        "Street Name": "penitencia creek rd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "West", 
+        "Speed": "30", 
+        "Street Name": "penitencia creek rd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "East", 
+        "Speed": "30", 
+        "Street Name": "alum rock falls rd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "West", 
+        "Speed": "30", 
+        "Street Name": "alum rock falls rd"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "East", 
+        "Speed": "30", 
+        "Street Name": "baypointe pkwy"
+    }, 
+    {
+        "Capacity": "650", 
+        "Directions": "West", 
+        "Speed": "30", 
+        "Street Name": "baypointe pkwy"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n autumn st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n autumn st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s autumn st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s autumn st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "stockton av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "stockton av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "white rd n"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "white rd n"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "white rd s"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "white rd s"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 4th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 4th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 4th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 4th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 10th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 10th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 10th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 10th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 11th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 11th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 11th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 11th st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "e st james st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "e st james st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "w st james st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "w st james st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "e julian st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "e julian st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "w julian st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "w julian st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "zanker rd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "zanker rd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "s baywood av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "s baywood av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "trade zone blvd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "trade zone blvd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "lundy ave"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "lundy ave"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 5th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 5th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 5th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 5th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 6th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 6th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 6th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 6th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 8th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 8th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 8th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 8th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "n 9th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "n 9th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "s 9th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "s 9th street"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "orchard pkwy"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "orchard pkwy"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "skyport dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "skyport dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "santana row"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "santana row"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "olsen dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "olsen dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "hatton st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "hatton st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "casa verde st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "casa verde st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "mckay dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "mckay dr"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "river oaks pkwy"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "river oaks pkwy"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "25", 
+        "Street Name": "toyon av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "25", 
+        "Street Name": "toyon av"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "mckee rd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "mckee rd"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "East", 
+        "Speed": "25", 
+        "Street Name": "virginia st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "West", 
+        "Speed": "25", 
+        "Street Name": "virginia st"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "65", 
+        "Street Name": "i-280 s"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "65", 
+        "Street Name": "i-680 n"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "65", 
+        "Street Name": "i-280 n"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "65", 
+        "Street Name": "i-680 s"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "North", 
+        "Speed": "65", 
+        "Street Name": "i-880 n"
+    }, 
+    {
+        "Capacity": "750", 
+        "Directions": "South", 
+        "Speed": "65", 
+        "Street Name": "i-880 s"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "North", 
+        "Speed": "65", 
+        "Street Name": "us-101 n"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "South", 
+        "Speed": "65", 
+        "Street Name": "us-101 s"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "North", 
+        "Speed": "65", 
+        "Street Name": "ca-87 n"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "South", 
+        "Speed": "65", 
+        "Street Name": "ca-87 s"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "East", 
+        "Speed": "65", 
+        "Street Name": "ca-237 e"
+    }, 
+    {
+        "Capacity": "1900", 
+        "Directions": "West", 
+        "Speed": "65", 
+        "Street Name": "ca-237 w"
+    }, 
+    {
+        "Capacity": "1450", 
+        "Directions": "East", 
+        "Speed": "45", 
+        "Street Name": "montague expressway"
+    }, 
+    {
+        "Capacity": "1450", 
+        "Directions": "West", 
+        "Speed": "45", 
+        "Street Name": "montague expressway"
+    }, 
+    {
+        "Capacity": "1450", 
+        "Directions": "East", 
+        "Speed": "45", 
+        "Street Name": "san tomas expressway"
+    }, 
+    {
+        "Capacity": "1450", 
+        "Directions": "West", 
+        "Speed": "45", 
+        "Street Name": "san tomas expressway"
+    }
+]

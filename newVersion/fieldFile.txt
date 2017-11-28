@@ -1,0 +1,6 @@
+Id
+Street Name
+Directions
+Day
+Time
+avg(Num of Vehicle)

@@ -1,0 +1,5 @@
+/home/student/spark-2.2.0-bin-hadoop2.7/bin/spark-submit --packages org.mongodb.spark:mongo-spark-connector_2.11:2.2.0 pysparkArima.py 'Casa Verde Street' 'Mineta San Jose International Airport' '9:00:00' 'Tuesday'
+
+
+
+

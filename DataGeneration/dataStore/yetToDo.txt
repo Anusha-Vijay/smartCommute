@@ -1,0 +1,38 @@
+Table Name:
+	SourceDestination.json
+Fields:
+
+	sd_ID:(Pk)
+	Source:
+	Destination:
+-----------------------
+Table Name:
+	Routes.json
+Fields:
+	r_ID:(PK)
+	sd_ID:(FK)
+	Average Travel Time:
+	Route:
+------------------------
+Table Name:
+	HourlyTravelTime.json
+Fields:
+	t_ID:(Pk)
+	r_ID:(FK)
+	Date:
+	Hour:
+	TravelTime:
+--------------------------
+Table Name: (sort of done)
+	Congestion.json
+Fields:
+	c_ID:(Pk)
+	r_ID:(fk)
+	Time:
+	Street Name:
+	Date:
+	Day:
+	Congestion%:
+
+
+

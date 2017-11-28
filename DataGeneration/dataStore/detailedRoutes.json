@@ -1,0 +1,305 @@
+[
+  {
+    "Id": 1,
+	"Source":"Casa Verde Street ",
+	"Destination":"Mineta San Jose International Airport",
+    "Travel Time": "15 min",
+    "Steps":[
+      {
+        "Street":"Casa Verde St",
+        "Direction":"North"
+      },
+      {
+        "Street":"S Zanker Rd",
+        "Direction":"South"
+      },
+      {
+        "Street":"River Oaks Pkwy",
+        "Direction":"West"
+      },
+      {
+        "Street":"N 1st St",
+        "Direction":"South"
+      },
+
+      {
+        "Street":"Orchard Pkwy",
+        "Direction":"West"
+      },
+      {
+        "Street":"CA-87 S",
+        "Direction":"South"
+      }
+      ,
+      {
+        "Street":"Skyport Dr",
+        "Direction":"East"
+      }
+    ]
+
+
+},
+  {
+    "Id": 2,
+    "Source": "Alum Rock Park",
+    "Destination": "San Jose State University",
+    "Travel Time": "22 mins",
+    "Steps": [
+      {
+        "Street": "Alum Rock Falls Rd",
+        "Direction": "West"
+      },
+      {
+        "Street": "Penitencia Creek Rd",
+        "Direction": "West"
+      },
+      {
+        "Street": "Toyon Av",
+        "Direction": "South"
+      },
+      {
+        "Street": "McKee Rd",
+        "Direction": "West"
+      },
+      {
+        "Street": "I-680 S",
+        "Direction": "South"
+      },
+      {
+        "Street": "I-280 N",
+        "Direction": "North"
+      },
+      {
+        "Street": "N 7th St",
+        "Direction": "North"
+      }
+    ]
+  },
+  {   "Id": 3,
+	"Source":"Casa Verde Street",
+	"Destination": "San Jose State University",
+    "Travel Time": "18 mins",
+    "Steps":[
+     {
+       "Street":"Casa Verde St",
+       "Direction":"North"
+     },
+     {
+       "Street":"Baypointe Pkwy",
+       "Direction":"East"
+     },
+     {
+       "Street":"N Zanker Rd",
+       "Direction":"North"
+     },
+     {
+       "Street":"CA-237 E",
+       "Direction":"East"
+     },
+     {
+       "Street":"I-880 S",
+       "Direction":"South"
+     },
+     {
+       "Street":"US-101 N",
+       "Direction":"North"
+     },
+     {
+       "Street":"S 10th St",
+       "Direction":"South"
+     }
+   ]
+},
+  {
+  "Id":4,
+	"Source":"San Jose State University",
+	"Destination": "Casa Verde Street",
+    "Travel Time": "18 mins",
+    "Steps":[
+     {
+       "Street":"S 10th St",
+       "Direction":"South"
+     },
+     {
+       "Street":"I-280 N",
+       "Direction":"North"
+     },
+     {
+       "Street":"CA-87 N",
+       "Direction":"North"
+     },
+     {
+       "Street":"N 1st St",
+       "Direction":"North"
+     },
+     {
+       "Street":"Charcot Av",
+       "Direction":"East"
+     },
+     {
+       "Street":"N Zanker Rd",
+       "Direction":"North"
+     },
+     {
+       "Street":"E Tasman Dr",
+       "Direction":"West"
+     },
+      {
+       "Street":"Casa Verde St",
+       "Direction":"North"
+     }
+   ]
+},
+  {
+  "Id":5,
+	"Source":"Mineta San Jose International Airport",
+	"Destination": "Casa Verde Street",
+    "Travel Time": "14 mins",
+    "Steps":[
+      {
+      "Street": "Airport Blvd",
+      "Direction": "North"
+      },
+       {
+      "Street":"E Brokaw Rd",
+      "Direction":"East"
+      },
+       {
+      "Street":"N Zanker Rd",
+      "Direction":"North"
+      },
+      {
+      "Street":"E Tasman Dr",
+      "Direction":"West"
+      },
+      {
+      "Street":" Casa Verde St",
+      "Direction":"North"
+      }
+    ]
+},
+  {
+    "Id": 21,
+    "Source": "Santana Row",
+    "Destination": "San Jose State University",
+    "Travel Time": "12 mins",
+    "Steps": [
+      {
+        "Street": "Santana Row",
+        "Direction": "South"
+      },
+      {
+        "Street": "Olsen Dr",
+        "Direction": "East"
+      },
+      {
+        "Street": "Hatton St",
+        "Direction": "North"
+      },
+      {
+        "Street": "S Baywood Av",
+        "Direction": "East"
+      },
+      {
+        "Street": "Stevens Creek Blvd",
+        "Direction": "South"
+      },
+      {
+        "Street": "I-280 S",
+        "Direction": "South"
+      },
+      {
+        "Street": "Virginia St",
+        "Direction": "East"
+      },
+      {
+        "Street": "N 7th St",
+        "Direction": "North"
+      },
+      {
+        "Street": "E San Salvador St",
+        "Direction": "East"
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Source": "San Jose State University",
+    "Destination": "Alum Rock Park",
+    "Travel Time": "23 mins",
+    "Steps": [
+      {
+        "Street": "S 10th St",
+        "Direction": "South"
+      },
+      {
+        "Street": "I-280 S",
+        "Direction": "South"
+      },
+      {
+        "Street": "I-680 N",
+        "Direction": "North"
+      },
+      {
+        "Street": "Berryessa Rd",
+        "Direction": "East"
+      },
+      {
+        "Street": "Capitol Av N",
+        "Direction": "South"
+      },
+      {
+        "Street": "Penitencia Creek",
+        "Direction": "East"
+      },
+      {
+        "Street": "Alum Rock Falls Rd",
+        "Direction": "East"
+      }
+  ]
+},
+  {
+    "Id": 23,
+    "Source": "Casa Verde Street",
+    "Destination": "Costco Wholesale, 1709 Automation Pkwy, San Jose, CA 95131",
+    "Travel Time": "13 mins",
+    "Steps": [
+      {
+        "Street": "Casa Verde St",
+        "Direction": "East"
+      },
+      {
+        "Street": "Baypointe Pkwy",
+        "Direction": "East"
+      },
+      {
+        "Street": "Zanker Rd",
+        "Direction": "North"
+      },
+      {
+        "Street": "CA 237 E",
+        "Direction": "East"
+      },
+      {
+        "Street": "I-880 S",
+        "Direction": "South"
+      },
+      {
+        "Street": "Montague Expressway",
+        "Direction": "East"
+      },
+      {
+        "Street": "Trade Zone Blvd",
+        "Direction": "East"
+      },
+      {
+        "Street": "Lundy Ave",
+        "Direction": "South"
+      },
+      {
+        "Street": "McKay Dr",
+        "Direction": "East"
+      }
+    ]
+  }
+]
